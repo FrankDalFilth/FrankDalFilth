@@ -1,4 +1,4 @@
- Hi, I’m @FrankDalFilth
+ Hi, I’m @FrankDaFilth
 - I’m interested in learning more about data analysis.
 - I’m currently learning GitHub.
 - I’m looking to collaborate on ways to better our world.
